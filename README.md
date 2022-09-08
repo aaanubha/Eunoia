@@ -21,12 +21,12 @@ The goal is to provide a study atmosphere for individuals who are locked in thei
 5. To-Do List
 <img width="960" alt="todo list" src="https://user-images.githubusercontent.com/55404781/188298080-e051d93b-cad4-490f-8a1a-1e91b2e4906d.png">
 
-##Getting Started
+## Getting Started
 
-###Prerequisites: 
+### Prerequisites: 
 1. [Install Flutter](https://docs.flutter.dev/get-started/install) 
 
-###Set Up:
+### Set Up:
 1. Download and extract the project
 2. Run the following code 
 `flutter run -d web-server`
